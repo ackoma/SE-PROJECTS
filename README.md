@@ -1,3 +1,48 @@
+# Project Title
+-------------------------------------------------------------------------------------------------------------------
+# Group Members: 
+
+Ack22614975 : Aaron 
+
+A00018206 : Ashlin 
+
+AKI23597614 : Azeez
+
+A00036936 : Muhammad 
+
+A00012787 : christwin
+
+----------------------------------------------------------------------------------------------------------------------------
+# CampusRide
+
+
+CampusRide is a web app that helps university students share taxi rides in a safe, cheap, and eco‑friendly way. Students can offer rides, request rides, plan trips together, and build trust because everyone on the platform is verified.
+
+Instead of using real money, the app uses virtual ride credits. This avoids security, privacy, and legal issues that come with handling payments, while still showing how transactions and rewards work in the system.
+
+# Virtual Ride Credit System 
+
+The ride credit system lets students “pay” for rides using virtual credits instead of real money. These credits only work inside the app and have no real-world value.
+
+Because no actual payments are involved, the app doesn’t need to collect or store any bank or card details. This makes the system safer and easier to use.
+
+Overall, it gives students a simple, risk‑free way to simulate how ride payments and exchanges would work in real life.
+
+# How the System Works
+
+Students earn ride credits by giving rides to others.
+For example: giving one ride earns one credit.
+
+Students use ride credits when they ask for a ride.
+For example: requesting one ride costs one credit.
+
+Each student can see their credit balance on their dashboard and profile.
+
+
+
+##
+
+
 # MySQL, PHPMyAdmin and Node.js (ready for Express development)
 
 This will install Mysql and phpmyadmin (including all dependencies to run Phpmyadmin) AND node.js
